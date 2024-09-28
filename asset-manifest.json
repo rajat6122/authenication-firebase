@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/authenication-firebase/static/css/main.8b485659.css",
-    "main.js": "/authenication-firebase/static/js/main.af24ca3b.js",
-    "static/media/Github.png": "/authenication-firebase/static/media/Github.5eab40a02fe444730a11.png",
-    "static/media/Thankyou.png": "/authenication-firebase/static/media/Thankyou.890cd770429f160d7733.png",
-    "index.html": "/authenication-firebase/index.html",
-    "main.8b485659.css.map": "/authenication-firebase/static/css/main.8b485659.css.map",
-    "main.af24ca3b.js.map": "/authenication-firebase/static/js/main.af24ca3b.js.map"
+    "main.css": "/authentication-firebase/static/css/main.8b485659.css",
+    "main.js": "/authentication-firebase/static/js/main.2d283ada.js",
+    "static/media/Github.png": "/authentication-firebase/static/media/Github.5eab40a02fe444730a11.png",
+    "static/media/Thankyou.png": "/authentication-firebase/static/media/Thankyou.890cd770429f160d7733.png",
+    "index.html": "/authentication-firebase/index.html",
+    "main.8b485659.css.map": "/authentication-firebase/static/css/main.8b485659.css.map",
+    "main.2d283ada.js.map": "/authentication-firebase/static/js/main.2d283ada.js.map"
   },
   "entrypoints": [
     "static/css/main.8b485659.css",
-    "static/js/main.af24ca3b.js"
+    "static/js/main.2d283ada.js"
   ]
 }
